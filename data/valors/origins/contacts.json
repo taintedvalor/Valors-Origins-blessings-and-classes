@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"createorigins:goggles"
+	],
+	"icon": "create:goggles",
+	"order": 10,
+	"impact": 1,
+	"name": "Brass Contacts",
+	"description": "Your father smashed a robot, what can you say? With this blessing, you’ve inherited your mother’s eyes and very soul. This unusual predicament allows for some natural chemistry between yourself and machinery."
+}
